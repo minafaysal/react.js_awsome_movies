@@ -1,0 +1,15 @@
+.main{
+    background-image: url('https://www.themoviedb.org/t/p/w1920_and_h600_multi_faces_filter(duotone,032541,01b4e4)/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.jpg');
+    background-size: cover;
+    height: 100vh;
+    
+    width:100%;
+    padding: 10px;
+    
+}
+.main h3 {
+    margin-top: 3rem;
+}
+.homeHeader{
+   color: black;
+}

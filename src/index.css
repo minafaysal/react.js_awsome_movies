@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
+
+body {
+font-family: Montserrat,Alternates !important;
+background-color: #131722;
+color: #fff;
+
+}
+
+.movieImg{
+    cursor: pointer;
+}
+img:hover{
+cursor: pointer;
+transform: scale(1.2);
+}
+.footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+}
